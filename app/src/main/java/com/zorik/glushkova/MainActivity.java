@@ -22,4 +22,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Activity_lab1_Glushkova.class);
         startActivity(intent);
     }
+
+
+    public void Button_Pi(View view) {
+        Intent intent = new Intent(this, Activity_Pi.class);
+        startActivity(intent);
+    }
 }

@@ -20,6 +20,16 @@
         android:textColor="@color/colorWhite"
         android:textSize="20dp"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/OSRT_Pi"
+        android:onClick="Button_Pi"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorWhite"
+        android:textSize="20dp"
+        android:layout_marginTop="30dp"/>
+
 
 
 

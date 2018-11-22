@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Glushkova</string>
     <string name="title_activity_main2">Main2Activity</string>
-    <string name="OSRT_lab1">OSRT_lab1</string>
+    <string name="OSRT_lab1">OSRT_robot</string>
+    <string name="OSRT_Pi">OSRT_Pi</string>
+    <string name="OSRT_calc">Calculate</string>
+    <string name="OSRT_Acc">accuracy_Example:0.0001</string>
 </resources>
